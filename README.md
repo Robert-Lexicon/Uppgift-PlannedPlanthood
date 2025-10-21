@@ -2,11 +2,9 @@
 
 Uppgiften är att göra en sida enligt nedanståend bilder, text och kod-stycken.<br>
 
-## Tidsram och inlämning
-
-- Ni har fram till och med xx på er att utföra uppgiften. xx ska de finnas tillgänglig för oss lärare att gå igenom då vi startar 9.00 på morgonen.
+## Inlämning
 - Klona detta repo och använd som grund. Ni lämnar in genom att pusha till er GitHub (den ni angav i formuläret tidigare) med namnet "Planned Planthood".
-- Sen skriver ni i lärarchatten när ni är klara med uppgiften så vi vet (om ni inte meddelar bedömmer vi den i det skick den är kl 9.00 xx, commits efter detta kommer ignoreras).
+- Sen skriver ni i lärarchatten när ni är klara med uppgiften så vi vet (om ni inte meddelar bedömmer vi den i det skick den är vid deadline, commits efter detta kommer ignoreras).
 
 ## Krav
 
